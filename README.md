@@ -1,0 +1,26 @@
+# Hi! I'm Gareth Lau
+
+🎓 Software Engineering at Western University
+
+💻 JavaScript Enthusiast & Neo4j Connoisseur
+
+✈️ Hong Kong Lover
+
+Some other links: [garethlau.me](https://garethlau.me), [blog](https://blog.garethlau.me), [floatingfile](https://floatingfile.space/)
+
+
+<!--
+**garethlau/garethlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
