@@ -1,10 +1,8 @@
 # Hi! I'm Gareth Lau
 
-🎓 Software Engineering at Western University
-
-💻 JavaScript Enthusiast & Neo4j Connoisseur
-
-✈️ Hong Kong Fanatic
+- 🎓 Software Engineering at Western University
+- 💻 `.js`, `.ts`, `.py`, `.java`
+- ✈️ Calgary, Hong Kong 
 
 Some other links: [garethlau.me](https://garethlau.me), [blog](https://blog.garethlau.me), [floatingfile](https://floatingfile.space/)
 
