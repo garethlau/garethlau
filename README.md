@@ -4,7 +4,7 @@
 
 💻 JavaScript Enthusiast & Neo4j Connoisseur
 
-✈️ Hong Kong Lover
+✈️ Hong Kong Fanatic
 
 Some other links: [garethlau.me](https://garethlau.me), [blog](https://blog.garethlau.me), [floatingfile](https://floatingfile.space/)
 
